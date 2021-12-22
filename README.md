@@ -3,7 +3,7 @@ This is the README file of Group CSGO Project: Spectral Representations for Conv
 
 All files containing code are located in the src folder. Our projects consist of 6 Jupyter Notebooks and 8 modules, i.e. python files. 6 Jupiter Notebooks are respectively named Approximation Loss.ipynb, Spectral Parameterization.ipynb, Hyperparameter Search.ipynb, Information Preserved.ipynb, CIFAR100 Train Test.ipynb and CIFAR10 Train Test.ipynb. The overall structure is displayed in the figure as follows.
 
-
+<img width="930" alt="bdff417939090e2728d44353ed5036a" src="https://user-images.githubusercontent.com/90977332/147037998-d2ac6586-83b5-45f9-a49c-68230e0d03e8.png">
 
 Approximation Loss.ipynb - This Jupyter Notebook demonstrates spectral pooling and frequency dropout in action on a minibatch. It also replicates the results for the approximation loss from the original paper.
 
@@ -25,5 +25,5 @@ Details about modules are listed by the commend inside the .py files, you can al
 
 # Organization of this directory
 The directory tree is shown below.
-
+![c257e67232afc2bbcd38c8cc52b0da2](https://user-images.githubusercontent.com/90977332/147037884-03a2a7e4-596b-4a33-8322-96773bf1280f.png)
 Because the git push shows different local files so the tree can't be import from jupyter note book, but we give a screen shot here, please check
