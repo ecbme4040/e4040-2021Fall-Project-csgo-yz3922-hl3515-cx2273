@@ -1,7 +1,5 @@
 # e4040-2021Fall-project
-Seed repo for projects for e4040-2021Fall-project
-  - Distributed as Github Repo and shared via Github Classroom
-  - Contains only README.md file
+This is the README file of Group CSGO Project: Spectral Representations for Convolutional Neural Networks. The project repo is a reproduction of Rippel, Snoek, and Adams 2015 (https://arxiv.org/pdf/1506.03767.pdf). 
 
 # To be used for final project development and documentation, by a group of students
   - Students must have at least one main Jupyter Notebook, and a number of python files in a number of directories and subdirectories such as utils or similar, as demonstrated in the assignments
